@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bai/bai/ceres_test/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -isystem /home/bai/abseil-cpp/install/include -isystem /usr/include/eigen3 -g -o CMakeFiles/ltest.dir/main.cpp.o -c /home/bai/bai/ceres_test/main.cpp",
+  "file": "/home/bai/bai/ceres_test/main.cpp",
+  "output": "CMakeFiles/ltest.dir/main.cpp.o"
+}
+]
